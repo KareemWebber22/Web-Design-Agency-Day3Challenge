@@ -1,3 +1,3 @@
-This Project is part from the WebDev BootCamp by Angela Yu at Udemy.
-It's a simple Web design Agency website.
-The website is responsive using media queries.
+# Udemy - CSS Project
+# 100 Days Of Code
+# Day 3 Challenge
